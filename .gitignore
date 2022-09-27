@@ -1,0 +1,18 @@
+# history pcb
+**/History
+# pcb/*
+# !pcb/Final PCB
+# history code
+**/__history
+*.STA
+*.cof
+*.err
+*.esym
+*.lst
+*.sym
+*.tre
+*.xsym
+*.txt
+# clear old code
+# code/*
+# !code/Final code
