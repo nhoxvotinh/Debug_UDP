@@ -12,7 +12,6 @@
 *.sym
 *.tre
 *.xsym
-*.txt
 # clear old code
 # code/*
 # !code/Final code
